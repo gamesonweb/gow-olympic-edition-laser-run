@@ -1,4 +1,7 @@
-# FromScratch
-BabylonJS Game from scratch
+Projet laser Run
 
-Accompagne la vidéo du 03 / 02 / 2024
+KHERRAF Anis
+
+MAZOUZI Lydia
+
+NDAO Papa Omar NDAO
